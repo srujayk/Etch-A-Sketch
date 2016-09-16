@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>draw_it</label>
+	</settings>
+	<users>
+		<user>
+			<path>draw_it.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>draw_it.jcp</path>
+		</project>
+	</projects>
+</workspace>
